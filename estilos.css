@@ -1,9 +1,8 @@
 footer{
-	background: #FDFDFD;
+	background: #000;
 	height: 90px;
-	max-height: 90px;
 	width: 100%;
-	color: #000;
+	color: #fff;
 	font-family: monospace;
 	padding: 30px;
 }
