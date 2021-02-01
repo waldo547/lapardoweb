@@ -1,19 +1,22 @@
 header{
-background: #000;
+        background: #000;
 	height: 60px;
 	width: 100%;
 	color: #fff;
 	font-family: monospace;
-	padding: 30px;
+	padding: 10px;
+	box-sizing: border-box;
+	
 }
 
 a{
 	text-align: center;
-	text-decoration: none;
+	text-decoration-line: none;
 	display: inline-block;
 	font-family: monospace;
 	color: #fff;
 	background: #000;
+	padding: 30px;
 }
 
 a:hover{
