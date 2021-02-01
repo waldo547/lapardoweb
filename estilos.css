@@ -9,6 +9,10 @@ header{
 	
 }
 
+li{
+ list-style: none;
+}
+
 a{
 	text-align: center;
 	text-decoration-line: none;
