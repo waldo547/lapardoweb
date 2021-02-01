@@ -10,7 +10,8 @@ header{
 }
 
 li{
- list-style: none;
+ list-style: none; 
+ text-align: center;
 }
 
 a{
@@ -21,7 +22,7 @@ a{
 	color: #fff;
 	background: #000;
 	padding: 10px;
-	list-style: none;
+	
 	
 	
 }
