@@ -1,3 +1,27 @@
+header{
+background: #000;
+	height: 60px;
+	width: 100%;
+	color: #fff;
+	font-family: monospace;
+	padding: 30px;
+}
+
+a{
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-family: monospace;
+	color: #fff;
+	background: #000;
+}
+
+a:hover{
+	background: #fff;
+	color: #000;
+	transition: 0.6s;
+}
+
 footer{
 	background: #000;
 	height: 90px;
