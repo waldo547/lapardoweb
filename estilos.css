@@ -12,11 +12,11 @@ header{
 a{
 	text-align: center;
 	text-decoration-line: none;
-	display: inline-block;
+	display: block;
 	font-family: monospace;
 	color: #fff;
 	background: #000;
-	padding: 30px;
+	
 }
 
 a:hover{
