@@ -8,3 +8,7 @@ footer{
 	font-family: monospace;
 	padding: 30px;
 }
+
+.cajon{
+  flex-wrap: wrap;
+}
