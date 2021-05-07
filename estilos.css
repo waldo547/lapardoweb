@@ -10,5 +10,11 @@ footer{
 }
 
 .cajon{
+  display:flex;
   flex-wrap: wrap;
+}
+
+.contenido{
+flex: 1;
+min-width:250px;
 }
