@@ -4,11 +4,10 @@ footer{
 	background: #000;
 	height: 90px;
 	width: 100%;
-	color: orange;
+	color: #fff;
 	font-family: monospace;
 	padding: 30px;
-	flex:2;
-	min-font-size: 10px;
+	
 }
 
 .cajon{
